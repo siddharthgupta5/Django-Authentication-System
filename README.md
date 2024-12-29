@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a web application that implements a user authentication system with features like login, SignUp, Password Reset, Change Password and User Profile Management.
+This is a web application that implements a user authentication system with features like Login, SignUp, Password Reset, Change Password and User Profile Management.
 
 ## Features
 
